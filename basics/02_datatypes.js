@@ -16,4 +16,4 @@ alert(3+3) //pop up we are using node js, not browser
   
   //typeof => tells the type of value
   //typeof null => object
-  //typeof undefined = undefined
+  //typeof undefined => undefined
